@@ -1,0 +1,10 @@
+C:\Users\micky\source\repos\2048\2048\bin\Debug\2048.exe.config
+C:\Users\micky\source\repos\2048\2048\bin\Debug\2048.exe
+C:\Users\micky\source\repos\2048\2048\bin\Debug\2048.pdb
+C:\Users\micky\source\repos\2048\2048\bin\Debug\Model.dll
+C:\Users\micky\source\repos\2048\2048\bin\Debug\Model.pdb
+C:\Users\micky\source\repos\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+C:\Users\micky\source\repos\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\micky\source\repos\2048\2048\obj\Debug\2048.csproj.CopyComplete
+C:\Users\micky\source\repos\2048\2048\obj\Debug\2048.exe
+C:\Users\micky\source\repos\2048\2048\obj\Debug\2048.pdb
